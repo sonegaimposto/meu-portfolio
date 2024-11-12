@@ -1,0 +1,22 @@
+root {
+  --cor-principal: rgb(82,35, 53);
+  --cor-secundaria: white;
+  --cor-destaque: grey;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+h1, h2, h5 {
+  color: var(--cor-secundaria);
+  font-weight: 400;
+}
+
+footer a {
+  color: var(--cor-principal);
+}
+
+footer a:hover {
+  color: var(--cor-destaque);
+}
