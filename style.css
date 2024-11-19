@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
 root {
-  --cor-principal: rgb(82,35, 53);
+  --cor-principal: #ad9947;
   --cor-secundaria: white;
   --cor-destaque: grey;
 }
